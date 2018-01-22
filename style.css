@@ -1,0 +1,23 @@
+body {
+    background-color: #f2f2f2;
+}
+
+h1.display-1 {
+    color: #333333;
+}
+
+a {
+    color: #333333;
+}
+
+p {
+    font-family: 'Oxygen', sans-serif;
+}
+
+p.mb-0 {
+    font-family: 'Lora', serif;
+}
+
+blockquote {
+    font-family: 'Playfair Display', serif;
+}
